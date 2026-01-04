@@ -1,6 +1,11 @@
 FlytBase AEGIS
+
 AI-Native Security Operations Interface for Autonomous Drone Fleets
 FlytBase AEGIS is a next-generation conceptual interface designed for autonomous intrusion detection, response, and forensic evidence generation. Unlike traditional security dashboards built for manual monitoring, AEGIS is a decision-supervision system designed for high-autonomy environments where seconds matter and legal reliability is paramount.
+
+LIVE DEMO:
+
+security-alert-platform.vercel.app/
 
 
 🛡️ The Challenge: Supervision Under Pressure
