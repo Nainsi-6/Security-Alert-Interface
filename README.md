@@ -5,8 +5,7 @@ FlytBase AEGIS is a next-generation conceptual interface designed for autonomous
 
 LIVE DEMO:
 
-(https://security-alert-interface.vercel.app/)
-
+(https://security-alert-platform.vercel.app/)
 
 🛡️ The Challenge: Supervision Under Pressure
 
